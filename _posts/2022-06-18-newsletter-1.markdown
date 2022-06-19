@@ -9,4 +9,4 @@ categories: newsletter
 Check out the [FAQ][faq] for more info on how to get the most out of noisuff.
 
 
-[faq]: https://noisuff.github.com/faq
+[faq]: https://noisuff.github.io/faq
