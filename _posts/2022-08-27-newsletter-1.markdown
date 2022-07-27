@@ -40,3 +40,4 @@ Springt ihr auch schon ganz aufgeregt im Kreis? Wir wissen, wir haben lang nicht
 
 Und alles andere wichtige findet ihr in unserem [Oilympischen Regelwerk][faq] – wir gehen davon aus, dass ihr sie auswendig lernt und werden stichprobenartig beim Einlass einzelne Punkte abfragen.
 
+[faq]: https://noisuff.github.io/faq
