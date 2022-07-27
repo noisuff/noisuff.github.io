@@ -4,7 +4,7 @@ title: FAQ
 permalink: /faq/
 ---
 
-# Oilympische Regelwerk
+# Olympische Regelwerk
 
 
 ### Awareness-Selbstverständnis
