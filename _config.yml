@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: NOISUFf
-email: noisuff2021@example.com
+email: noisuff2021@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   noisuff ist ein tolles festival für tolle menschen.
 baseurl: "" # the subpath of your site, e.g. /blog
