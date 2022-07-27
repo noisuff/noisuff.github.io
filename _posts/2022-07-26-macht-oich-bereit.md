@@ -24,6 +24,8 @@ Springt ihr auch schon ganz aufgeregt im Kreis? Wir wissen, wir haben lang nicht
 (würde das glaub ich erstmal gar nicht schreiben)
 
 
+blablabla
+
 
 **Anreise**: Wir haben mal wieder richtig Glück und die eigentlich so easy Strecke hat nun einen SEV. Wir haben uns für dieses Jahr aber gegen einen Shuttle entschieden, die besten Möglichkeiten findet ihr unserem FAQ. (Link setzen)
 
