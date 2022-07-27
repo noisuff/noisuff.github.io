@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Macht oich bereit!"
-date:   2022-08-27 11:45:04 +0200
-categories: newsletter
+title:  "Macht oich bereit"
 ---
 
 **Hallo ihr lieben Moise!**
