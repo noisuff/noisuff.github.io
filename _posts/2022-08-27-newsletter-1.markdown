@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Macht oich bereit!"
-date:   2022-06-18 11:45:04 +0200
+date:   2022-08-27 11:45:04 +0200
 categories: newsletter
 ---
 
